@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>My First Post</title>
+      <link href="/2024/01/27/My-First-Post/"/>
+      <url>/2024/01/27/My-First-Post/</url>
+      
+        <content type="html"><![CDATA[<p>This is my <strong>First Post</strong>, so I will use this page to test it.<br /><blockquote><p>Do not just seek happiness for yourself. Seek happiness for all. Through kindness. Through mercy.</p><footer><strong>David Levithan</strong><cite>Wide Awake</cite></footer></blockquote></p><p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">print(&#x27;hello world&#x27;)</span><br></pre></td></tr></table></figure></p><p><figure class="highlight objc"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">[rectangle setX: <span class="number">10</span> y: <span class="number">10</span> width: <span class="number">20</span> height: <span class="number">20</span>];</span><br></pre></td></tr></table></figure></p><p><figure class="highlight objc"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">[rectangle setX: <span class="number">10</span> y: <span class="number">10</span> width: <span class="number">20</span> height: <span class="number">20</span>];</span><br></pre></td></tr></table></figure></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Default </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> All </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
